@@ -4,11 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=31-deepali-ds2a&label=Profile%20views&color=0e75b6&style=flat" alt="31-deepali-ds2a" /> </p>
 
-- 🔭 I’m currently working on **Digital Networking**
+- 🔭 Self-driven and passionate coder with a strong foundation in C++ and Data Structures & Algorithms (DSA), always eager to solve problems with clean and efficient code.
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 Skilled in Object-Oriented Programming (OOPs), Databases, and proficient with MySQL for designing, managing, and optimizing data-driven applications.
 
-- 💬 Ask me about **React**
+- 💬Enthusiastic about Computer Fundamentals including Operating Systems (OS) and Computer Networks (CN), and their application in building reliable systems.
+  
+- 🤝Excited to collaborate on projects, learn from peers, and contribute meaningfully to the software development community.
 
 - 📫 How to reach me **deepaligupta16k2@gmail.com**
 
